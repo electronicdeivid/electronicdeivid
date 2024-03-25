@@ -1,17 +1,11 @@
 ## About me
 
 - 💻 Electronic Civil Engineering student at UTEM.
-- 🌱 Learning about Software design and Cloud computing.
+- 🌱 Learning about Software development and Cloud computing.
 - ⚡ I love ride in fixed gear and powerlifting.
 
 
 ## Tools and Technologies
-
-<!--START_SECTION:colourise-->
-
-
-<!-- https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white -->
-<!--"https://camo.githubusercontent.com/f9192fa0bdd13ac9b11f7203cbcae04536aa7c10f180de65b75274a001afd18a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765 -->
 
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 <img src="https://camo.githubusercontent.com/66cd74ee94e525be5a34b997caadfadad4a594c5919ce07effa5694542fb9243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52617370626572727925323050692d4132323834363f7374796c653d666f722d7468652d6261646765266c6f676f3d7261737062657272797069266c6f676f436f6c6f723d7768697465"/>
@@ -39,4 +33,7 @@
 <!-- SAcAR new icons :https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/thenuka99.md-->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk       muchos tempalotes :https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/stkeky.md
 bueno : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Nneji123.md-->
+<!--START_SECTION:colourise-->
+<!-- https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white -->
+<!--"https://camo.githubusercontent.com/f9192fa0bdd13ac9b11f7203cbcae04536aa7c10f180de65b75274a001afd18a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765 -->
 
