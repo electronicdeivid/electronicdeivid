@@ -1,7 +1,7 @@
 ## About me
 
 - 💻 Electronic Civil Engineering student at UTEM.
-- 🌱 Learning about Software development and Cloud computing.
+- 🌱 Learning about Software development, Cloud computing and DevOps tools.
 - ⚡ I love ride in fixed gear and powerlifting.
 
 
