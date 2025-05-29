@@ -1,8 +1,8 @@
 ## About me
 
-- 💻 Electronic Civil Engineering student at UTEM.
-- 🌱 Learning about Software development and DevOps tools.
-- ⚡ I love ride in fixed gear and powerlifting.
+- 💻 Ingeniero Civil Electrónico UTEM.
+- 🌱 Estudiando herramientas DevOps.
+- ⚡ Repasando redes y Linux.
 
 
 ## Tools and Technologies
