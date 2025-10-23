@@ -1,9 +1,8 @@
 ## About me
 
 - 💻 Ingeniero Civil Electrónico UTEM.
-- 🌱 Estudiando herramientas DevOps.
-- ⚡ Repasando redes y Linux.
-
+- 🌱 Estudiando y practicando Java.
+  
 
 ## Tools and Technologies
 
