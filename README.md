@@ -1,7 +1,8 @@
 ## About me
 
 - 💻 Ingeniero Civil Electrónico UTEM.
-- 🌱 Estudiando y practicando Java.
+- 🌱 Estudiando Spring.
+- :cloud: Cloud enthusiast.
   
 
 ## Tools and Technologies
